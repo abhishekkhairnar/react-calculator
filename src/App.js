@@ -1,8 +1,5 @@
 import logo from "./logo.svg";
 import "./App.css";
-import Hooks from "./Components/Hooks";
-import UseHook from "./Components/UseHook";
-// import UseCallback from "./Components/UseCallback";
 import Calculator from "./Components/Calculator";
 
 function App() {
